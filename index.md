@@ -38,4 +38,4 @@ Seperti Wi-Fi, Li-Fi adalah teknologi nirkabel dan menggunakan protokol 802.11 y
 
 Rekomendasi G.9991 (“Transceiver komunikasi cahaya tampak berkecepatan tinggi dalam ruangan – Arsitektur sistem, spesifikasi lapisan fisik dan lapisan data” / “High-speed indoor visible light communication transceiver – System architecture, physical layer and data link layer specification”) baru-baru ini diterbitkan oleh ITU-T. Ini adalah langkah besar dalam adopsi luas teknologi LiFi dalam berbagai aplikasi dari jaringan rumah / perusahaan ke IoT. Rekomendasi baru ini menggambarkan sistem komunikasi kecepatan tinggi dengan latensi rendah yang dirancang khusus untuk mengatasi tantangan LiFi.
 
-![Image]
+![Image] (Cara-Kerja-LiFi-300x208.png)
